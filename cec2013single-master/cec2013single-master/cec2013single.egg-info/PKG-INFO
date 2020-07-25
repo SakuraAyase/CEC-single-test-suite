@@ -1,0 +1,18 @@
+Metadata-Version: 1.0
+Name: cec2013single
+Version: 0.1
+Summary: Package for benchmark for the Real Single Objective Optimization session on IEEE Congress on Evolutionary Computation CEC'2013
+Home-page: UNKNOWN
+Author: Daniel Molina
+Author-email: daniel.molina@uca.es
+License: GPL V3
+Description: =============================================================
+        CEC'2013 Single Global Optimization Special Session Benchmark
+        =============================================================
+        
+        This package wraps the official C code for the Special Session & Competition on Real-Parameter Single Objective Optimization at
+        the IEEE Congress on Evolutionary Computation. See http://www.ntu.edu.sg/home/EPNSugan/index_files/CEC2013/CEC2013.htm.
+        
+        This package is a unofficial package using cython for calling the official implementation in C source code.
+        
+Platform: UNKNOWN
