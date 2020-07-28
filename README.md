@@ -2,14 +2,14 @@
 test suites of CECXXXX benchmarks
 including cec2013single, cec2005single(void),cec2019 100 digit competition
 
-install steps:      
+install steps:             
       
-1: decompose the file 
-2: open the setup.py in txt mode and delete the code "libraries=["m"]" in setup.py
-3: install the setup.py via anaconda prompt, i.e. python setup.py install    
+1: decompose the file      
+2: open the setup.py in txt mode and delete the code "libraries=["m"]" in setup.py     
+3: install the setup.py via anaconda prompt, i.e. python setup.py install          
 
    
-安装步骤：
+安装步骤：       
 1：解压缩     
 2：用txt格式打开setup.py，并且删掉其中的libraries=["m"]语句     
 3：通过anaconda prompt，转到文件根目录下并输入python setup.py install以运行setup.py文件       
