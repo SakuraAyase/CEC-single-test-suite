@@ -1,5 +1,5 @@
 # CEC-benchmarks
-test suites of CECXXXX benchmarks
+test suites of CEC2005, CEC2013, and CEC2019 benchmarks
 including cec2013single, cec2005single(void),cec2019 100 digit competition
 
 install steps:             
