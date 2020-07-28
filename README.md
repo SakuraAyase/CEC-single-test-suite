@@ -17,11 +17,11 @@ install steps:
    However the cec2005 test suite is not able to executed in python 3.6 or later version, with unknowledged reason.         
    cec2005无法使用，原因不明emmmm       
    
-reference: 
-[cec2013lsgo安装python - LNK1181: cannot open input file 'm.lib' 出错] (https://www.pianshen.com/article/3016871169/)    
-[cec2013 single] (https://github.com/Naeemeh146/CEC2013python)      
-[cec2019comp100] (https://github.com/dmolina/cec2019comp100digit)     
-[cec2005 real] (https://github.com/dmolina/cec2005real)   
+reference:           
+[cec2013lsgo安装python - LNK1181: cannot open input file 'm.lib' 出错] (https://www.pianshen.com/article/3016871169/)      
+[cec2013 single] (https://github.com/Naeemeh146/CEC2013python)         
+[cec2019comp100] (https://github.com/dmolina/cec2019comp100digit)         
+[cec2005 real] (https://github.com/dmolina/cec2005real)      
     
               
                   
